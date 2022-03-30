@@ -1,2 +1,2 @@
-#!/vin/bash
+#!/bin/bash
 mv betty my_first_directory
