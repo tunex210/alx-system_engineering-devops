@@ -1,2 +1,2 @@
 #!/bin/bssh
-chown vincent:staff
+chown vincent:staff *
